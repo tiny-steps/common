@@ -1,0 +1,6 @@
+com/tinysteps/common/repository/SoftDeleteRepository.class
+com/tinysteps/common/exception/SoftDeleteException$ErrorType.class
+com/tinysteps/common/entity/EntityStatus.class
+com/tinysteps/common/entity/BaseEntity.class
+com/tinysteps/common/service/SoftDeleteService.class
+com/tinysteps/common/exception/SoftDeleteException.class

@@ -1,0 +1,5 @@
+/Users/apple/Freelance Projects/tiny-steps/server/common/src/main/java/com/tinysteps/common/service/SoftDeleteService.java
+/Users/apple/Freelance Projects/tiny-steps/server/common/src/main/java/com/tinysteps/common/entity/EntityStatus.java
+/Users/apple/Freelance Projects/tiny-steps/server/common/src/main/java/com/tinysteps/common/exception/SoftDeleteException.java
+/Users/apple/Freelance Projects/tiny-steps/server/common/src/main/java/com/tinysteps/common/repository/SoftDeleteRepository.java
+/Users/apple/Freelance Projects/tiny-steps/server/common/src/main/java/com/tinysteps/common/entity/BaseEntity.java
